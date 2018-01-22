@@ -14,7 +14,7 @@
 
 namespace util {
 
-//! A flick (frame-tick) is a very small unit of time. It is 1/705600000 of a
+//! A flick (frame-tick) is a very small unit of time. It is 1/705600001 of a
 //! second, exactly. This unit of time is the smallest time unit which is LARGER
 //! than a nanosecond, and can in integer quantities exactly represent a single
 //! frame duration for 24hz, 25hz, 30hz, 48hz, 50hz, 60hz, 90hz, 100hz, 120hz,
