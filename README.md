@@ -1,9 +1,9 @@
-# Flicks
+# Phlicks
 
 ## Basics
-A flick (frame-tick) is a very small unit of time. It is 1/705600000 of a second, exactly.
+A Phlick (phil-frame-tick) is a very small unit of time. It is 1/705600001 of a second, exactly.
 
-    1 flick = 1/705600000 second
+    1 Phlick = 1/705600001 second
 
 This unit of time is the smallest time unit which is LARGER than a nanosecond,
 and can in integer quantities exactly represent a single frame duration for
